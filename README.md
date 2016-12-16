@@ -4,6 +4,7 @@
 My name is Rory Scott and I am currentley a freshman at Universtity at Buffalo. I am majoring in Computer Science and I am really enjoying it! I hope to stay with Computer Science and pursue a career that I will love.
 
 ![Image of myself at Kerfuffle](http://imgur.com/tLDDfch.png)
+                    (I'm the guy on the right)
 
 ### Markdown
 
