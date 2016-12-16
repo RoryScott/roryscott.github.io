@@ -20,6 +20,6 @@ My name is Rory Scott and I am currentley a freshman at Universtity at Buffalo. 
 
 ### Contact Information
 
-If you have any questions or concerns please contact me at roryscot@buffalo.edu
+If you have any questions or concerns please contact me at roryscot@buffalo.edu.
 Thank you for a great first semseter!
 
