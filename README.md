@@ -13,6 +13,7 @@ My name is Rory Scott and I am currentley a freshman at Universtity at Buffalo. 
   
 ### Soccer
   - Soccer was always a passion of mine, ever since I was young I remember playing soccer. I played throughout my entire childhood and I can say I met most of my friends because of the sport. We still play on a team we made called the Amherst Amateurs :joy:
+  
 ### Concerts
    - Concerts bring a sense of excitement to everyone participating and thats why I love going. UB's concert this semester was crazy with Lil Yachty, D.R.A.M, Rae Sremmurd and Travis Scott. Other concerts I went to this summer was TWENTY ØNE PILØTS, G-Eazy and Logic, Blink-182 and I just went to Kerfuffle Before Christmas a few weeks ago!
 
