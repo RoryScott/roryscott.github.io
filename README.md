@@ -6,14 +6,17 @@ My name is Rory Scott and I am currentley a freshman at Universtity at Buffalo. 
 ![Image of myself at Kerfuffle](http://imgur.com/tLDDfch.png)
 <div style="text-align: right"> :point_up_2: That's Me</div>
 
-### Favorite Activities
+## Favorite Activities
 
-Below are just a few of my favorite activites:
+### Snowboarding
+  - Snowboarding is easily my favroite activity, I usually go at least twice a week while in season! My family all does winter sports and we own a condo at Holiday Valley. I skied for five years and this  will be my ninth year snowboarding!
+### Soccer
 
+### Concerts
+
+### Friends
 ```markdown
-
-
-# Header 1
+#
 ## Header 2
 ### Header 3
 
