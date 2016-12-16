@@ -4,14 +4,14 @@
 My name is Rory Scott and I am currentley a freshman at Universtity at Buffalo. I am majoring in Computer Science and I am really enjoying it! I hope to stay with Computer Science and pursue a career that I will love.
 
 ![Image of myself at Kerfuffle](http://imgur.com/tLDDfch.png)
-<div style="text-align: right"> :point_up_2: That's Me    </div>
+<div style="text-align: right"> :point_up_2: That's Me</div>
 
-### Markdown
+### Favorite Activities
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Below are just a few of my favorite activites:
 
 ```markdown
-Syntax highlighted code block
+
 
 # Header 1
 ## Header 2
